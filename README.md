@@ -1,8 +1,14 @@
-# Underwater-Imaging-Papers
-A list of latest papers in underwater imaging area
+# Underwater-Systems-Research
+A list of groups doing research in Underwater Robotics
 
-WHOI Group
+WHOI Deep Submergence Laboratory
 
 DROP Lab @ Michigan
 
 Perceptual Robotics Lab @ Michigan
+
+Australian Centre for Field Robotics -  Marine Robotics
+
+John Hopkins University
+
+
